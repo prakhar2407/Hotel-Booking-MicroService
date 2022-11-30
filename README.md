@@ -18,3 +18,6 @@ FOLDER STRUCTURE
 
 EUREKA SERVER MAIN METHOD
 ![image](https://user-images.githubusercontent.com/65302454/204845990-04559eea-b474-477c-b8e5-fc1067d59509.png)
+
+REST TEMPLATE TO SEND REQUEST FROM ONE MICROSERVICE TO ANOTHER
+![image](https://user-images.githubusercontent.com/65302454/204847870-e95640c0-e7ea-4cb5-a69b-7530b9f968b8.png)
