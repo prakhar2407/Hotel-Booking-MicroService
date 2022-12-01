@@ -1,5 +1,11 @@
 # Hotel-Booking-MicroService
 
+To Run this Project we first have to run the eureka server, when it is up and running we can start with any of the microservices and we have to make sure that they are discoverable and visible on the Eureka Server (localhost:8761)  
+As the Microservices are self capable and loosely coupled we have used the Rest Template class to call the api of other microservice to fetch,post,put,delete data from other microservice
+  For Rest Template to work we have to create a Bean for Rest Template in the class where main method is present and in that microservice from which we want to make the   api call
+  
+  ![image](https://user-images.githubusercontent.com/65302454/205005915-ee787574-e225-46c9-800f-16601e9586e2.png)
+
 Booking Microservice Creation
 ![image](https://user-images.githubusercontent.com/65302454/204792391-19a27569-ed53-42a8-bab7-72ed4d49eb71.png)
 
